@@ -1,0 +1,184 @@
+CONTRATO DE ARRENDAMENTO URBANO 
+
+
+Para fins Habitacionais 
+
+ENTRE 
+
+     {{senhorio}}
+
+ E
+
+	 {{inquilino}}
+
+
+
+2025
+CONTRATO DE ARRENDAMENTO URBANO
+Para fins Habitacionais  
+ENTRE:
+
+{{senhorio}}, sociedade registada ao abrigo das leis Angolana, com sede social na Rua {{Endereço do Senhorio}} com número contribuinte n.º{{senhorio_nif}}, representada neste acto pelo Sr. {{representative_name}}, na qualidade de Gerente, com poderes para o acto, doravante designado, abreviadamente “SENHORIO”.
+
+E
+
+{{inquilino}}, pessoa singular, portador do {{inquilino_doc}} {{inq_id_nr}}, emitido em {{inquilino_id_nr_issue_date_dt}}, válido até {{inquilino_id_nr_expiry_dt}}, NIF {{inquilino_nif}}, adiante abreviadamente designado por ARRENDATÁRIO.
+
+Individualmente designadas por “Parte” e colectivamente por “Partes”
+
+CONSIDERANDO QUE:
+A.	O SENHORIO declara ser o dono e legítimo proprietário do {{endereco_imovel}}, na província de Luanda, destinado a habitação de ora em diante simplesmente designado como o “imóvel”, conforme Anexos I (Planta);
+B.	O SENHORIO tem interesse em arrendar ao Arrendatário, a fracção pertencente ao mesmo; 
+C.	O ARRENDATÁRIO (A) pretende arrendar o imóvel que se destina ao uso habitacional não comercial, onde apresenta todos documentos necessários para a realização do negócio (Conforme Anexo II);
+D.	O Inquilino tomou conhecimento das condições impostas referente a fracção. 
+
+É celebrado e reciprocamente aceite o presente CONTRATO DE ARRENDAMENTO URBANO PARA FINS HABITACIONAIS doravante “CONTRATO”, que se rege nos termos e condições constantes nas cláusulas seguintes e ainda pelas legislações aplicáveis: 
+
+
+CLÁUSULA PRIMEIRA
+ (Objecto)
+1.	O SENHORIO dá de arrendamento ao ARRENDATÁRIO o IMÓVEL com mobília, sito, {{endereco_imovel}}.
+2.	O SENHORIO declara para todos os efeitos legais que o IMÓVEL tem todos os elementos e condições necessários ao cumprimento do objectivo estabelecido neste CONTRATO.
+
+CLÁUSULA SEGUNDA
+  (Vigência)
+1.	 O contrato terá o prazo de 1(um) ano com início à {{start_date_dt}} à {{end_date_dt}}, sendo automaticamente renovável por períodos sucessivos de iguais períodos. 
+2.	As partes poderão denunciar o contrato, com um pré-aviso de 60 (Sessenta) dias sobre a data do termo do contrato ou de qualquer uma das suas renovações.
+3.	Sem prejuízo do disposto no número anterior, caso o ARRENDATÁRIO pretenda denunciar o contrato de arrendamento antes do termo do respectivo período de vigência, ou do termo de qualquer uma das suas renovações, o SENHORIO ficará obrigado a aceitar a denúncia do mesmo, mediante pré-aviso de 60 (Sessenta) dias mediante o pagamento por parte do ARRENDATÁRIO do equivalente a mais 1 (uma) renda mensal, para além das rendas vencidas até ao momento da denúncia.
+4.	O pagamento das rendas referidas no número anterior far-se-á na data da devolução do imóvel, através de entrega pelo ARRENDATÁRIO ao SENHORIO de cheque visado ou transferência bancária, devendo o ARRENDATÁRIO obrigatoriamente entregar o código swift e o borderaux da transferência.
+5.	Durante as (4) quatro semanas anteriores ao termo do contrato, o SENHORIO ou um seu representante designado para o efeito, estará autorizado a entrar no imóvel com terceiros, desde que o seja notificado com sete (7) dias de antecedência e a visita ocorra dentro do seu horário de funcionamento, para que esta esteja presente ou algum seu representante para o efeito.
+
+ 
+
+
+
+   CLÁUSULA TERCEIRA
+(Renda e Formas de Pagamento)
+1.	As Partes acordam um valor mensal da renda devida pela utilização da fracção é o equivalente AOA {{valor_renda)}} de kwanzas), mensal, sobre o valor terá a retenção do imposto, IP equivalente a 15%, e todos impostos determinado por lei, inerentes ao contrato, que estará ao encargo do SENHORIO realizar as retenções. 
+2.	O pagamento da renda será efectuado {{forma_pagamento}} o equivalente a AOA {{valor_renda}} (--------- de kwanzas), nos primeiros 8 dias úteis. O ARRENDATÁRIO receberá a factura, onde constará toda informação para realização do pagamento do CONTRATO de arrendamento. 
+3.	Sobre o valor mensal da renda ainda terá de ser pago o montante equivalente á AOA {{valor_caucao}} (----------de kwanzas), correspondente à caução a mesma serve para garantia do bom e pontual cumprimento das obrigações do presente contrato, que será entregue para efeitos comerciais, seja entregue nas mesmas condições em que foi recebido ou que não tenha rendas em atraso.
+4.	Caso a ARRENDATÁRIO não proceda ao pagamento nos termos referidos nos números anterior, o SENHORIO notificará o ARRENDATÁRIO, por escrito, para proceder ao respectivo pagamento nos sete (7) dias seguintes, com a cominação de, não o fazendo, poderá ficar sujeito à devolução das chaves do IMÓVEL, representa expresso incumprimento contratual.
+5.	Sobre o valor em incumprimento será acrescido de juros de mora de uma percentagem máxima de 15% do valor renda. 
+6.	O SENHORIO terá de emitir os recibos de quitação correspondentes aos pagamentos das rendas ao abrigo do contrato.
+7.	O reajuste do valor da renda mensal, poderá ser sujeito a revisões, mediante acordo mútuo, sempre que se verificar as seguintes situações. 
+a)	A Inflação exceda os 15%, num ano, de acordo com os dados estatísticos oficiais; 
+b)	Ou após um ano de vigência do contrato.
+8.	O Aumento dos valores será sempre feito após comunicação por escrito, pelo Senhorio, com antecedência mínima de 30(trinta) dias.
+
+CLÁUSULA QUARTA
+(Encargos)
+1.	O SENHORIO compromete-se ao pagamento do Imposto Predial (IP), de acordo entre as partes, sem ir fora dos tramites determinados na lei correspondente ao IP sendo que em vigor está a Lei n.º 20/20 de 09 de Julho, deve remeter o devido comprovativo de pagamento do imposto. 
+2.	Quaisquer outros impostos ou taxas do condomínio ou não, que incidam sobre a utilização do IMÓVEL, serão da responsabilidade do ARRENDATÁRIO, obrigando-se a manter em vigor todos os seguros que, por lei, sejam obrigatórios, sendo excluído o imposto de selo conforme determinado nas legislações concernentes a matéria a data presente esta em vigor, no Decreto Legislativo Presidencial n.º 3/14 de 30 de Dezembro. 
+3.	A taxa de condomínio a data presente é equivalente à AOA {{taxa_condominio}} (----------------------------- kwanzas), podendo ser alterada nos termos do regulamento interno e aprovação em Assembleia do Condomínio.
+
+ CLÁUSULA QUINTA
+(Escritura Pública)
+1.	As partes dispensam a outorga da escritura pública do contrato de arrendamento. 
+2.	Entretanto, caso uma das partes pretenda celebrar a escritura pública, a parte que pretenda a celebração da escritura irá arcar com todos encargos referentes a escritura pública, tendo de indicar o Cartório Notarial, dia e hora para esse efeito, com a antecedência mínima de sete (7) dias a outra parte. 
+3.	As Partes comprometem-se a incluir na escritura pública o presente contrato de arrendamento, com todas as cláusulas e condições. 
+
+CLÁUSULA SEXTA
+(Subarrendamento e cessão da posição contratual)
+1.	O ARRENDATÁRIO fica, desde já, proibido de ceder ou subarrendar, total ou parcialmente, o imóvel, em quaisquer termos ou condições, salvo mediante consentimento escrito do SENHORIO.
+2.	O ARRENDATÁRIO, não poderá sem a autorização prévia e por escrito do SENHORIO transferir ou ceder, no todo ou em parte, os seus direitos e obrigações. 
+
+CLÁUSULA SÉTIMA
+(Benfeitorias)
+1.	Sempre que o ARRENDATÁRIO queira realizar obras/benfeitorias de adaptação e melhoramentos, necessárias ou convenientes ao exercício das actividades a que se destina o imóvel, deverá apresentar ao SENHORIO, um pedido de autorização no prazo nunca inferior a 10 (Dez)  dias, onde constam todos os elementos necessários para que este se possa pronunciar e, nomeadamente, os projectos das obras, devidamente instruídos e com uma memória descritiva, bem como o tempo previsível para a finalização das obras.
+2.	Todas as obras realizadas no imóvel pelo ARRENDATÁRIO, não serão autorizadas ou ainda que devidamente autorizadas, em caso se verifique que a mesma esteja a afectar, por qualquer forma, a segurança, estrutura e estabilidade do imóvel ou causar danos às suas instalações técnicas ou ao aspecto estético ou arquitetura do mesmo, deverá ser automaticamente interrompida, as partes devem ver melhor forma de formas evitar danos a estrutura do prédio.
+3.	Todas as obras e benfeitorias realizadas pelo ARRENDATÁRIO consideram-se parte integrante do imóvel, sem que por elas possa ser pedida qualquer indemnização ou compensação ou ser invocada retenção, renunciando, pelo presente, o ARRENDATÁRIO, expressamente, o direito às mesmas.
+4.	Sem prejuízo do disposto no número anterior, o ARRENDATÁRIO poderá proceder ao levantamento das benfeitorias, sempre que as mesmas possam ser removidas sem prejuízo ou danificação do imóvel. no entanto, responsável pela reparação de quaisquer prejuízos ou estragos que causar com a remoção.
+5.	Findo o presente arrendamento, o imóvel deverá ser entregue ao SENHORIO, livre e desocupado de pessoas e bens e em perfeito estado de conservação de uso, salvo o caso das deteriorações decorrentes do seu uso normal, prudente e em conformidade com os fins do contrato, mantendo-se no mesmo todas as benfeitorias cuja remoção implique prejuízo ou danificação no imóvel.
+6.	O mobiliário ou outros bens pertencentes ao ARRENDATÁRIO, deixados no imóvel por mais de 7(sete) dias depois do término do contrato, serão removidos sem que ao SENHORIO lhe seja imputada qualquer responsabilidade, e as despesas de remoção serão cobradas ao ARRENDATÁRIO 
+                                        
+CLÁUSULA OITAVA
+(Obrigações do ARRENDATÁRIO)
+1.	O ARRENDATÁRIO obriga-se, desde a data de ocupação efectiva do imóvel e sem prejuízo de outras obrigações assumidas ao abrigo do presente contrato, a:
+a)	Cumprir rigorosamente o regulamento do condomínio parte integrante do contrato.
+b)	Facultar ao SENHORIO, ou a quem este indicar para o efeito, com antecedência prévia de quinze (15) dias, o exame do imóvel, para que este possa verificar se o ARRENDATÁRIO cumpriu com as suas obrigações ao abrigo do presente contrato e se todas as obrigações legais e regulamentares que impendem sobre o ARRENDATÁRIO no que respeita ao imóvel foram devidamente observadas e cumpridas.
+c)	Abster-se de práticas que lesem o SENHORIO ou terceiros de formas a causar danos/ prejuízos.
+d)	Não dar ao imóvel uso diverso do contratualmente estipulado, nem fazer dele uma utilização imprudente.
+e)	Manter em perfeito estado de conservação, limpeza e funcionamento, as instalações de água e esgotos, electricidade e gás, ar condicionado, assim como os seus pertences obrigando-se a reparar as respectivas deteriorações, ressalvadas as inerentes a uma normal e diligente utilização.
+f)	Pagar a taxa de Condomínio, atempadamente, de acordo com o regulamento e orçamentos em vigor para cada ano, efectuar, nos termos da lei aplicável a cada momento.
+g)	Caso seja o ARRENDATÁRIO a realizar a liquidação e pagamento do Imposto Predial devido na vigência do presente contrato deve remeter ao SENHORIO, a cópia do respectivo documento de liquidação e documento de arrecadação de receitas (DAR) emitido pela repartição fiscal competente, sempre que o imposto seja liquidado (o que ocorrerá semestralmente).
+h)	Encontra-se proibida a colocação de qualquer letreiro ou publicidade nas fachadas do IMÓVEL, a menos que o SENHORIO, expressamente, derrogue tal proibição e a colocação seja autorizada pelo Condomínio por não violar as regras contidas no regulamento de condomínio.
+i)	O ARRENDATÁRIO obriga-se a transmitir ao SENHORIO, no prazo máximo de 5 (Cinco) dias a contar da sua ocorrência, quaisquer danos ou deficiências, que sejam visíveis ou de fácil percepção, respondendo pelo aumento dos danos que a sua não comunicação causar.
+j)	É proibido actos de vandalismo dentro da fracção e no condomínio, actos de agressão, insultos a outros condóminos.
+k)	Danos graves dentro da fracções.
+l)	Permitir as inspeções periódicas trimestrais aos equipamentos da fracção alocados no imóvel pertencentes ao SENHORIO.
+m)	É causa de resolução imediata do presente contrato o incumprimento reiterado de qualquer uma das obrigações do INQUILINO assumidas nos termos do presente contrato, a qual deverá ser decretada nos termos da lei.
+CLÁUSULA NONA
+(Obrigações do SENHORIO)
+1.	O SENHORIO obriga-se a:
+a)	Entregar o imóvel em perfeito estado, com os equipamentos em pleno funcionamento, sem qualquer contencioso administrativo ou legal, por forma a garantir a sua plena utilização;
+b)	 Não praticar quaisquer actos que possam perturbar a tranquilidade do ARRENDATÁRIO, nem interferir a qualquer título com o seu direito de uso, fruição e exploração;
+c)	Liquidar todas as facturas resultantes de quaisquer despesas relativas ao imóvel, contraídas antes da entrada em vigor do presente contrato e apresentar cópia das mesmas ao ARRENDATÁRIO.
+d)	Emitir o laudo de vistoria por escrito, assinado pelas partes com a descrição do estado de conservação do imóvel bem como os seus pertences. 
+
+CLÁUSULA DÉCIMA 
+(Confidencialidade)
+1.	As Partes obrigam-se a manter em total e absoluta confidencialidade o conteúdo do presente contrato e respectivos anexos, bem como o das negociações, passadas ou futuras, com eles relacionadas, incluindo os actos necessários e preparatórios à sua execução e ainda quaisquer informações, escritas ou verbais, de que tenham ou venham a ter conhecimento relacionados com o presente contrato, com excepção das seguintes situações:
+a)	Obtenção de quaisquer autorizações, declarações, certidões, aprovações e consentimentos necessários à execução ou registo de qualquer um dos actos previstos no presente contrato;
+b)	Obtenção de assistência jurídica e/ou fiscal no âmbito da execução do presente contrato.
+c)	Comunicações impostas por lei e/ou respostas a pedidos de informação solicitados por autoridades competentes.
+   
+ CLÁUSULA DÉCIMA PRIMEIRA
+(Acordo Total e alterações)
+1.	Nada foi convencionado entre as Partes, directa ou indirectamente, relacionado com a matéria do presente contrato para além do que fica escrito nas suas cláusulas;
+2.	Quaisquer alterações a este contrato só serão válidas e eficazes desde que convencionadas por escrito, com expressa menção de cada uma das cláusulas eliminadas e da redacção que passa a ter cada uma das alteradas, aditadas ou eliminadas.
+
+CLÁUSULA DÉCIMA SEGUNDA 
+(Rescisão) 
+1.	Caso qualquer uma das partes entre em incumprimento de qualquer das suas obrigações decorrentes deste contrato de arrendamento, a outra parte tem o direito de rescindir o Contrato se a parte faltosa não suprir o incumprimento no prazo de 60 dias(sessenta) dias a contar da notificação escrita da parte lesada sobre o incumprimento.
+2.	A rescisão do contrato não prejudica o direito da parte ofendida de ver-se ressarcida dos danos caudados pelo incumprimento do contrato pela outra parte. 
+3.	A rescisão do contrato pode dar-se por mútuo acordo. 
+4.	Em caso de rescisão fica desde já o INQUILINO notificado sobre a reparação de todos pregos, parafusos, e demais colocados nas paredes ou armários do imóvel será debitado na caução. 
+
+CLÁUSULA DÉCIMA TERCEIRA  
+(Notificações)
+1.	Todas as notificações entre as Partes, quando não se encontre outra forma especialmente prevista, deverão ser efectuadas através de carta registada com aviso de recepção ou protocolo ou ainda por email, para as seguintes indicadas nos documentos oficiais das partes. 
+2.	Em alternativa às moradas atrás referidas, são válidas quaisquer outras moradas que as Partes venham a indicar entre si mediante comunicação prévia, pela mesma forma, com antecedência não inferior a sete (7) dias.
+3.	Os contactos do Arrendatário: 
+Tel.: {{inquilino_contact}}
+Email: {{inquiliono_email}}
+
+CLÁUSULA DÉCIMA QUARTA 
+(Invalidade)
+1.	As Partes acordam que, caso alguma disposição do presente contrato venha a ser considerada inválida ou ineficaz, tal consideração não afectará a validade ou eficácia das restantes. 
+2.	Verificando-se a situação prevista no número anterior, as Partes obrigam-se a diligenciar no sentido da substituição das disposições declaradas inválidas ou ineficazes por outras que produzam efeitos semelhantes ou reponham o espírito e objectivos subjacentes às mesmas.
+
+CLÁUSULA DÉCIMA QUINTA
+(Tribunal e lei aplicável)
+1.	Quaisquer dúvidas ou litígios resultantes da interpretação ou execução do presente contrato serão resolvidas com base no princípio da Boa-fé e por uma via amigável.
+2.	 Em tudo quanto esteja omisso será aplicável a Lei do arrendamento Urbano e as disposições do Código Civil. reguladas e integradas de acordo com o Direito Angolano aplicável.
+3.	 Na falta de acordo, fica desde já eleito o Tribunal da Comarca de Belas com prevalência sobre qualquer outro. As custas judiciais e outras decorrentes da composição do diferendo correm por conta de quem lhe deu causa. 
+4.	 As partes poderão a posteriori, por escrito, acordar, caso se demonstre mais eficaz, célere e financeiramente vantajosa a resolução de litígio por via da Arbitragem voluntárias em Angola.
+
+CLÁUSULA DÉCIMA SEXTA 
+(Justa Causa, Força Maior e Alteração das Circunstâncias)
+1.	Sempre que por motivos de força maior não imputável directamente às Partes, o ARRENDATÁRIO fique privada do uso do imóvel por um período superior a noventa (90) dias, o presente contrato caducará, não havendo lugar ao pagamento de qualquer indemnização por qualquer uma das Partes. Quaisquer pagamentos adiantados feitos pelo ARRENDATÁRIO relacionados com renda ou outros montantes que se refiram a período posterior à cessação do contrato deverão ser reembolsados pelo SENHORIO ao ARRENDATÁRIO Durante o período de privação do uso do imóvel, não é devido o pagamento da renda pelo ARRENDATÁRIO.
+2.	Considera-se como caso de força maior qualquer facto natural ou situação imprevisível ou inevitável, cujos efeitos se produzam independentemente da vontade ou circunstâncias pessoais de qualquer das Partes, tais como actos de terrorismo, guerra ou subversão, epidemias, ciclones, tremores de terra, fogo, raios, inundações, greves gerais ou sectoriais, bem como quaisquer outros eventos desta natureza que afectem o cumprimento por qualquer das Partes das obrigações decorrentes do presente CONTRATO.
+3.	Caso o INQUILINO se encontre impedida, por razões de carácter financeiro, de cumprir o presente contrato o mesmo suspender-se-á por um período de dois meses a contar da comunicação da INQUILINO ao SENHORIO para o efeito, caducando o presente contrato passado que esteja este prazo, caso a insuficiência financeira se mantenha, não havendo lugar ao pagamento de qualquer indemnização pelo INQUILINO ao SENHORIO.
+4.	A insuficiência financeira prevista no número um do presente contrato deverá ser comprovada, aquando da comunicação prevista naquele número, mediante extractos bancários de todas as contas detidas pelo INQUILINO e outros meios que o SENHORIO venha a solicitar para o efeito.
+5.	Caso, após a análise dos elementos referidos no ponto anterior, o SENHORIO considere, objectivamente, que não deverá haver lugar à suspensão das obrigações, as mesmas manter-se-ão como até essa data.
+6.	A verificação de qualquer uma das situações nos números acima não isenta o INQUILINO do cumprimento de obrigações e prestações decorrentes do presente contrato bem como os respectivos juros de mora vencidos e vincendos a data que se verifique a causa de cessação.
+7.	A indeminização pela privação do uso apenas deverá ter lugar se essa privação for efectiva é isso é se o ARRENDATÁRIO tiver abandonado o locado. 
+8.	A verificação de qualquer inexatidão, omissão ou erro nas declarações e factos atestados pelo SENHORIO, neste contrato, em que confere ao ARRENDAÁRIO de o resolver, de imediato com base no incumprimento definitivo por parte do SENHORIO.
+
+
+CLÁUSULA DÉCIMA SÉTIMA
+                                                       (Documentos Contratuais) 
+1.	Constitui parte integrante do presente Contrato os documentos a seguir relacionado conforme descrição infra:
+a)	Anexo - A – Documento de titularidade do imóvel.
+b)	Anexo – B – Documentos de identificação das partes.
+c)	Anexo – C - Termo de entrega em que consta de todos os equipamentos que se encontram no imóvel;
+d)	Anexo – D- Cópia do último pagamento da taxa de Condomínio.
+e)	Anexo – E- Comprovativo de pagamento da caução. 
+
+É impresso em duas vias originais e de igual conteúdo para cada Entidade, ficando cada uma das partes com um exemplar.
+Luanda, aos 21 de Julho de 2025  
+
+P/SENHORIO                                                                              P/ ARRENDATÁRIO 
+
+__________________________                   	____________________________
+ 
