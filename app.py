@@ -6,7 +6,7 @@ import subprocess
 import re
 from datetime import datetime, date
 import logging
-from num2words import num2words # Library to convert numbers to words (e.g., salary)
+#from num2words import num2words # Library to convert numbers to words (e.g., salary)
 
 # --- Configuration & Setup ---
 
@@ -55,16 +55,6 @@ def convert_to_pdf(docx_path, output_dir):
         logger.error(f"PDF conversion error: {str(e)}")
         return None
 
-def format_currency_to_words(amount_float, lang='pt_PT', currency='kwanzas'):
-    """Convert a float salary amount to localized words."""
-    try:
-        # num2words is robust but may not support all specific regional dialects (like Angolan Portuguese - pt_AO). 
-        # Using pt_PT as a close substitute.
-        words = num2words(amount_float, lang=lang, to='currency', currency='AOA')
-        # Simple cleanup if needed (depending on specific formatting requirement)
-        return words.replace(' euro', ' kwanzas') # Placeholder for AOA/Kwanzas
-    except Exception:
-        return "CONVERSION_ERROR"
 
 # --- Validation Functions (Simplified) ---
 
