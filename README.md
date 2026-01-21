@@ -120,7 +120,3 @@ Sinta-se à vontade para abrir issues e pull requests. Sugestões úteis:
 - Automatizar mapeamentos de placeholders (PT → snake_case)
 - Melhorar validações de IBAN (uso de bibliotecas de validação)
 - Adicionar testes automatizados para renderização de templates
-
-## Licença
-
-Escolha uma licença apropriada (por exemplo MIT) e adicione um ficheiro `LICENSE` se quiser tornar este projeto público.
