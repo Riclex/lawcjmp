@@ -18,7 +18,7 @@ Um gerador simples de contratos de arrendamento para fins habitacionais, constru
 - `test_render_clean.docx`, `contract_template_clean.docx` — arquivos gerados durante o desenvolvimento / testes.
 - `requirements.txt` — dependências Python.
 - `scripts/` — utilitários para converter/gerar templates e testar renderização.
-- `myenv/` — (opcional) virtualenv local (não comitado).
+- `myenv/` — (opcional) virtualenv local (not commited).
 
 ## Requisitos
 
@@ -51,7 +51,7 @@ pip install -r requirements.txt
 No PowerShell, a partir da pasta `gerador/`:
 
 ```powershell
-cd c:\Users\ricki\Documents\Freelance\Projects\Marlene\gerador
+cd c:\Documents\gerador
 streamlit run app.py
 ```
 
@@ -83,7 +83,7 @@ Abra o browser em `http://localhost:8501`.
 1. Inicializar repositório local (a executar na pasta `gerador/`):
 
 ```powershell
-cd c:\Users\ricki\Documents\Freelance\Projects\Marlene\gerador
+cd c:\Documents\gerador
 git init
 git add .
 git commit -m "chore: initial import of contract generator"
@@ -94,8 +94,8 @@ git commit -m "chore: initial import of contract generator"
 3. Adicionar o remote e fazer push (exemplo):
 
 ```powershell
-# substitua <your-repo-url> pelo URL do repositório GitHub (HTTPS ou SSH)
-git remote add origin <your-repo-url>
+# substitua pelo URL do repositório GitHub (HTTPS ou SSH)
+git remote add origin <https://github.com/Riclex/lawcjmp.git>
 git branch -M main
 git push -u origin main
 ```
@@ -103,10 +103,8 @@ git push -u origin main
 Se quiser usar a CLI `gh`:
 
 ```powershell
-gh repo create <username>/<repo-name> --public --source=. --remote=origin --push
+gh repo create Riclex/lawcjmp --public --source=. --remote=origin --push
 ```
-
-Observação: eu não posso subir automaticamente para o seu GitHub (não tenho credenciais). Siga os passos acima localmente ou diga-me se pretende que eu gere os comandos para si e eu os execute aqui (se lhe for conveniente fornecer unicamente a autorização no seu ambiente).
 
 ## Troubleshooting
 
